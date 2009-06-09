@@ -7,3 +7,11 @@ and my next machine whenever I get it.
 
 In brief, I commented out some lines that caused unexpected/undesired results. Really the author is Todd Werth.
 
+To use this, drop it in here:
+
+  ~/.vim/colors/ir_black.vim
+
+And then add this line to your .vimrc:
+
+  :colorscheme ir_black
+
